@@ -2,7 +2,7 @@
 卡片组件
 
 ### 示例
-<m-card imgSrc="/logo.png" summary="Vue"></m-card>
+<m-card imgSrc="/fyz-ui/logo.png" summary="Vue"></m-card>
 
 ### 代码
 ```html
